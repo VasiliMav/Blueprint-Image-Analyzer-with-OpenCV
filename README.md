@@ -59,3 +59,6 @@ Print the areas of detected "rooms" in square pixels for further analysis.
 https://github.com/MRAC-IAAC/learn-python-with-this-project/blob/main/PYTHON-PROJECT.md
 
 Marita Georganta) and Huanyu Li Instructors Creation of GitHub template: Marita Georganta - Robotic Sensing Expert Creation of MRAC-IAAC GitHub Structure: Huanyu Li - Robotic Researcher
+
+Image Source:
+https://thesefourwallsblog.com/how-to-plan-a-room-layout/
