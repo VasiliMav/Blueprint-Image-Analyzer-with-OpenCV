@@ -1,6 +1,7 @@
 # OPEN CV BLUEPRING 
 IAAC-MRAC-01_Hardware-II_February 2025
 
+
 INTRODUCTION :
 
 This repo is used for IAAC students and faculty to learn Python and OpenCV through projects. The concepts and tools learned through these projects are fundamental for future python and opencv development. This repo is designed for the preparation of MRAC students as they are entering the second term of the MRAC programme which is dedicated to sensing.
